@@ -43,7 +43,7 @@ Glow & Style Salon – Pune
 
 ## Figma Design Link
 
-https://eject-flip-16250686.figma.site/
+[Figma Design Prototype](https://eject-flip-16250686.figma.site/)
 
 ## Tools Used
 
